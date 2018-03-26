@@ -1,0 +1,1 @@
+demo是基于 `particles.js` 实现的效果，想要查看详细的 `API` 以及使用方法可前往[particles.js](https://github.com/VincentGarreau/particles.js) 
